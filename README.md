@@ -1,6 +1,6 @@
 # talks-the-right-way
 
-Este repo é um compilado de diversas dicas/informaçõe uteis para quem deseja melhorar ou iniciar no mundo das palestras.
+Este repo é um compilado de diversas dicas/informações úteis para quem deseja melhorar ou iniciar no mundo das palestras.
 
 A princípio está voltada para a área de TI, mas creio que algumas dicas aqui apresentadas servem para todo e qualquer tipo de palestra.
 
