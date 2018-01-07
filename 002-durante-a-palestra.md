@@ -7,7 +7,7 @@ Já ouviu dizer que mesmo que sua boca esteja fechada, seu corpo fala? Exato e c
 
 Isso quer dizer que você pode ser um expert no assunto, mas se não procurar uma postura serena, calma e com voz firme, sua palestra pode ter ouvintes roncando, pessoas dispersas e más avaliaçÕes.
 
-Dá pra perceber claramente que você se sente incomodado em ser interrompido no meio da palestra (vamos falar sobre isso), com aquela pergunta capciosa ou totalmente fora de contexto. 
+Dá pra perceber claramente que você se sente incomodado em ser interrompido no meio da palestra (vamos falar sobre isso), com aquela pergunta capciosa ou totalmente fora de contexto.
 
 Lembre-se que você é o foco, todo mundo está te olhando e não vão deixar passar nada, pois é o momento em que os cérebros deles estão se abrindo para o conhecimento que está por vir.
 
@@ -32,4 +32,4 @@ Porém, mantenha a calma e diga a pessoa que responderá essas e quaisquer outro
 
 O mesmo vale para qualquer piada infame, discurso de ódio ou ofensa pessoal. De maneira alguma se abale ou *dê corda*, pois quase sempre a pessoa que faz esse comentário depreciativo busca alguém para brigar ou impor seu ponto de vista sobre o mundo em todos os momentos. Como diz a sabedoria popular, *não bata palma para louco dançar*.
 
-Sabemos que *easier said than done*, mas não existe outra receita melhor do que ser educado, ficar calmo e focar no tema/assunto.  
+Sabemos que *easier said than done*, mas não existe outra receita melhor do que ser educado, ficar calmo e focar no tema/assunto.

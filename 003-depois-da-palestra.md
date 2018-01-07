@@ -21,12 +21,12 @@ Não caia no famoso [*whataboutism*](https://en.wikipedia.org/wiki/Whataboutism
 
 Exemplo que ocorreu numa talk que assisti há tempos atrás:
 
-	Ouvinte # 1: - Tenho uma pergunta: Porque ao invés do Slim você não usou outro microframework, como o Silex? 
-	Palestrante: - Não usei porque o Silex tem uma performance ruim, tem um código péssimo... 
+	Ouvinte # 1: - Tenho uma pergunta: Porque ao invés do Slim você não usou outro microframework, como o Silex?
+	Palestrante: - Não usei porque o Silex tem uma performance ruim, tem um código péssimo...
 
-Esse tipo de resposta pode aguçar um ouvinte que domine o assunto a te questionar de forma incisiva e com isso você pode entrar num vórtice que vai te levar ao fracasso. 
+Esse tipo de resposta pode aguçar um ouvinte que domine o assunto a te questionar de forma incisiva e com isso você pode entrar num vórtice que vai te levar ao fracasso.
 
-Porque? 
+Porque?
 
 Porque com essa resposta, você pode passar a impressão a todos os ouvintes de que não sabe nada sobre a ferramenta que acabou de mostrar na palestra e muto menos da outra que acabou de criticar.
 
@@ -46,19 +46,19 @@ Respire fundo, entenda o que foi perguntado e tente responder da forma mais amig
 
 ### 3.2 - Esteja preparado para falhar miseravelmente
 
-Esse é um exercício difícil e que cada um absorve de maneira diferente, mas tenha em mente que você irá falhar algum dia e que isso é extremamente normal. Não parece mais acontece com todos. 
+Esse é um exercício difícil e que cada um absorve de maneira diferente, mas tenha em mente que você irá falhar algum dia e que isso é extremamente normal. Não parece mais acontece com todos.
 
 O que podemos dizer então?  não seja tão duro consigo mesmo e procure aprender com o erro cometido, buscando um auto-avaliação baseada em perguntas-respostas.
 
 Exemplos:
 
-*Porque eu gaguejei naquela resposta?* ou ainda *Porque aquele live coding falhou mesmo eu não precisando de conexão a internet?* 
+*Porque eu gaguejei naquela resposta?* ou ainda *Porque aquele live coding falhou mesmo eu não precisando de conexão a internet?*
 
 Com certeza você achará respostas para essas perguntas e evitará que erros como estes aconteçam novamente.
 
 ### 3.3 - Peça feedback
 
-O feedback do público é a melhor forma de avaliar como você se saiu 
+O feedback do público é a melhor forma de avaliar como você se saiu
 
 Esse feedback pode ser feito através de qualquer ferramenta. Alguns eventos disponibilizam o joind.in, outros possuem um formulário próprio ou ainda há aqueles que não se preocupam tanto com esse quesito. Não espere que uma solução caia do seu e tenha o seu *form de feedback* na manga. Um formulário no Google Forms já resolve, não precisa ser nada elaborado.
 

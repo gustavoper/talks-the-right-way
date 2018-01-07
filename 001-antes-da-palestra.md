@@ -35,22 +35,22 @@ Dado ao que vimos e presenciamos ao longo do tempo,
 
  - Ninguém gosta de slide carregado: Muitos, mas muitos palestrantes tem a ideia de que slides carregados servem de apoio para o palestrante, no sentido de que "ah se eu esquecer a definição de amendoim durante minha fala não tem problema, eu coloco a definição no slide, vou lendo e...". Essa é uma ilusão, facilmente detectada pelo ouvinte: em alguns casos, é evidente que o palestrante não sabe do que está falando, pegou a definição na Wikipedia e está literalmente fazendo a leitura do slide.
 Lembre-se: seu público não está ali para ver a Biblia em PPT e sim ver o que você tem de interessante para contar.
-    
+
  - Slide tem que ter padrão: um padrão de fontes/cores ajuda e muito o ouvinte a não se perder. Procure não exagerar naquele rosa-fluorescente ou no verde-cintilante, seus slides tem que ser agradáveis de se ver. Recomendamos muito que siga uma paleta de cores! Na web existe uma infinidade de ferramentas que podem te ajudar nisso, como o Adobe Kuler e o Paleton (http://paletton.com/).
 
  - Evite a enxurrada de piadinhas, memes e gifs engraçados: Cuidado ao tentar arrancar em excesso risos da platéia com um gif animado a cada 2 slides. Use-os com muita parcimônia, sem exagero e evitando ao máximo a clássica falta de noção. Aquela sua piada de loira, papagaio ou português pode ter lugar no almoço de domingo mas não numa palestra.
 
 Você pode - e deve - quebrar o gelo, mas nunca ser um babaca.
- 
+
 ### 1.5 - Tenha punchlines na cabeça
-    
+
 Procure cercar-se de frases que definam o sub-topico da vez: mais ou menos como no punchline no rap, aquela frase que marca o assunto e que provavelmente seu ouvinte não irá esquecer. Ela tem o poder de mostrar pro ouvinte que você entende do assunto o suficiente para contar a alguém, mexe com o ouvinte e pode obrigá-lo a pegar o bloco de anotações, escrevendo imediatamente o que você acabou de falar.
-	
-Quer exemplos? 
 
-*"O PHP está em 8 em cada 10 sites na Web"* ou 
+Quer exemplos?
 
-*"Object calisthenics é a melhor série de práticas que um desenvolvedor deveria saber"*, ou ainda 
+*"O PHP está em 8 em cada 10 sites na Web"* ou
+
+*"Object calisthenics é a melhor série de práticas que um desenvolvedor deveria saber"*, ou ainda
 
 *"Para quem só tem um martelo, o mundo inteiro é um prego"*.
 

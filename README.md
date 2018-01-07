@@ -9,7 +9,7 @@ A princípio está voltada para a área de TI, mas creio que algumas dicas aqui 
 
 - Esse guia não é uma receita de bolo;
 
-- Esse guia não é bala de prata; 
+- Esse guia não é bala de prata;
 
 - Esse guia é baseado em experiências pessoais e pura observação ao longo dos anos;
 
