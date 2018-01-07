@@ -7,5 +7,4 @@
 - [Metaforando - Canal sobre linguagem corporal](https://www.youtube.com/channel/UCh7TUTXojlE8vRtb-EnuDzw)
 
 ### 5.3 - Ferramentas
-
 - [Paleta de cores Adobe](https://color.adobe.com/create/color-wheel/)

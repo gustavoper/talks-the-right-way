@@ -4,11 +4,11 @@
 ### 3.1 - Esteja preparado para perguntas
 
 
-Tenha em mente que você será perguntado sobre o que você acabou de falar, sobre o que não falou e talvez até sobre o que nunca pensou em falar na sua vida. Esse ultimo caso ocorre muito em palestras para o público mais iniciante, que tem medo em perguntar para outra pessoa e ve ali a oportunidade da vida em sanar sua dúvida.
+Tenha em mente que você será perguntado sobre o que você acabou de falar, sobre o que não falou e talvez até sobre o que nunca pensou em falar na sua vida. Esse último caso ocorre muito em palestras para o público mais iniciante, que tem medo em perguntar para outra pessoa e vê ali a oportunidade da vida em sanar sua dúvida.
 
 **Eu não sei!**
 
-Pelo menos alguma vez na vida um palestrante já teve a experiencia de ser perguntado por algo que não esperava, ou ainda não sabe. É Normal porque ninguém sabe de tudo sempre e é mais normal ainda responder o famoso eu não sei!. A dica que podemos dar é que se você não sabe, não invente mas pegue o contato de quem perguntou, comprometa-se a pesquisar sobre a pergunta e dar uma resposta.
+Pelo menos alguma vez na vida um palestrante já teve a experiência de ser perguntado por algo que não esperava, ou ainda não sabe. É normal porque ninguém sabe de tudo sempre e é mais normal ainda responder o famoso "eu não sei!". A dica que podemos dar é que se você não sabe, não invente - mas pegue o contato de quem perguntou, comprometa-se a pesquisar sobre a pergunta e dar uma resposta.
 
 
 E não tenha medo também se alguém da plateia responder a pergunta, agradeça a quem respondeu e siga em frente.
@@ -16,17 +16,17 @@ E não tenha medo também se alguém da plateia responder a pergunta, agradeça 
 
 **Eu não fiz isso porque aquilo...**
 
-Não caia no famoso [*whataboutism*](https://en.wikipedia.org/wiki/Whataboutism), onde você justifica um equivoco (ou abordagem) pelo de outra pessoa.
+Não caia no famoso [*whataboutism*](https://en.wikipedia.org/wiki/Whataboutism), onde você justifica um equívoco (ou abordagem) pelo de outra pessoa.
 
 
-Exemplo que ocorreu numa talk que assisti há tempos atrás:
+Exemplo que ocorreu numa talk que assisti há tempos:
 
-	Ouvinte # 1: - Tenho uma pergunta: Porque ao invés do Slim você não usou outro microframework, como o Silex? 
-	Palestrante: - Não usei porque o Silex tem uma performance ruim, tem um código péssimo... 
+	Ouvinte # 1: - Tenho uma pergunta: Por que ao invés do Slim você não usou outro microframework, como o Silex?
+	Palestrante: - Não usei porque o Silex tem uma performance ruim, tem um código péssimo...
 
-Esse tipo de resposta pode aguçar um ouvinte que domine o assunto a te questionar de forma incisiva e com isso você pode entrar num vórtice que vai te levar ao fracasso. 
+Esse tipo de resposta pode aguçar um ouvinte que domine o assunto a te questionar de forma incisiva e com isso você pode entrar num vórtice que vai te levar ao fracasso.
 
-Porque? 
+Por quê?
 
 Porque com essa resposta, você pode passar a impressão a todos os ouvintes de que não sabe nada sobre a ferramenta que acabou de mostrar na palestra e muto menos da outra que acabou de criticar.
 
@@ -38,7 +38,7 @@ Veja a saia justa que você passou e está se submetendo nesse exato momento. Pr
 
 **Não existe pergunta idiota**
 
-Nunca, jamais questione o mérito da pergunta do seu ouvinte. Evite fazer aquela cara de *cara, que porcaria de pergunta*. Esse tipo de atitude soa ofensivo e pode virar o público contra quem está perguntando, conflito que você deve evitar ao mãximo.  Pode ainda afastar o público de você. Quem nunca ouviu a frase *porque que eu vou perguntar algo pra esse cara? Lembra como ele respondeu o maninho lá?*
+Nunca, jamais questione o mérito da pergunta do seu ouvinte. Evite fazer aquela cara de *cara, que porcaria de pergunta*. Esse tipo de atitude soa ofensiva e pode virar o público contra quem está perguntando, conflito que você deve evitar ao mãximo.  Pode ainda afastar o público de você. Quem nunca ouviu a frase *por que eu vou perguntar algo pra esse cara? Lembra como ele respondeu o maninho lá?*
 
 Respire fundo, entenda o que foi perguntado e tente responder da forma mais amigável possível. Lembre-se que seu objetivo é aproximar o ouvinte a você e não o contrário.
 
@@ -46,22 +46,22 @@ Respire fundo, entenda o que foi perguntado e tente responder da forma mais amig
 
 ### 3.2 - Esteja preparado para falhar miseravelmente
 
-Esse é um exercício difícil e que cada um absorve de maneira diferente, mas tenha em mente que você irá falhar algum dia e que isso é extremamente normal. Não parece mais acontece com todos. 
+Esse é um exercício difícil e que cada um absorve de maneira diferente, mas tenha em mente que você irá falhar algum dia e que isso é extremamente normal. Não parece, mas acontece com todos.
 
-O que podemos dizer então?  não seja tão duro consigo mesmo e procure aprender com o erro cometido, buscando um auto-avaliação baseada em perguntas-respostas.
+O que podemos dizer então? Não seja tão duro consigo mesmo e procure aprender com o erro cometido, buscando um auto-avaliação baseada em perguntas-respostas.
 
 Exemplos:
 
-*Porque eu gaguejei naquela resposta?* ou ainda *Porque aquele live coding falhou mesmo eu não precisando de conexão a internet?* 
+*Por que eu gaguejei naquela resposta?* ou ainda *Por que aquele live coding falhou mesmo eu não precisando de conexão a internet?*
 
 Com certeza você achará respostas para essas perguntas e evitará que erros como estes aconteçam novamente.
 
 ### 3.3 - Peça feedback
 
-O feedback do público é a melhor forma de avaliar como você se saiu 
+O feedback do público é a melhor forma de avaliar como você se saiu.
 
-Esse feedback pode ser feito através de qualquer ferramenta. Alguns eventos disponibilizam o joind.in, outros possuem um formulário próprio ou ainda há aqueles que não se preocupam tanto com esse quesito. Não espere que uma solução caia do seu e tenha o seu *form de feedback* na manga. Um formulário no Google Forms já resolve, não precisa ser nada elaborado.
+Esse feedback pode ser feito através de qualquer ferramenta. Alguns eventos disponibilizam o *joind.in*, outros possuem um formulário próprio ou ainda há aqueles que não se preocupam tanto com esse quesito. Não espere que uma solução caia do seu e tenha o seu *form de feedback* na manga. Um formulário no Google Forms já resolve, não precisa ser nada elaborado.
 
 ### 3.4 - Disponibilize seu conteúdo para posterior visualização
 
-Procure compartilhar seus slides com o mundo, seu conteúdo pode ser de grande ajuda para um ouvinte seu relembrar tópicos ou ainda ajudar alguém que está estudando agora o tema/assunto que você tratou. Slideshare, speakerdeck, github, fica a seu critério.
+Procure compartilhar seus slides com o mundo: seu conteúdo pode ser de grande ajuda para um ouvinte seu relembrar tópicos ou ainda ajudar alguém que está estudando agora o tema/assunto que você tratou. Slideshare, speakerdeck, github... Fica a seu critério.
