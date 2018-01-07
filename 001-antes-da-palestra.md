@@ -1,8 +1,6 @@
 ## 1 - Antes da Talk
 
-
 ### 1.1 - assunto
-
 
 Toda palestra, texto, redação, e-mail começa com um assunto. Por definição, o assunto é uma das partes mais tranquilas pois é algo mais abrangente, amplo e pode envolver diversos temas.
 
@@ -21,12 +19,10 @@ Você tem que estar preparado para esses e quaisquer outros tipos de intercorrê
 
 Vamos falar sobre esses topicos detalhadamente mais tarde, mas tenha em mente que preparação é a chave para o sucesso de uma talk.
 
-
 ### 1.3.1 – Preparação exige dedicação
 
 Dedique-se ao tema/assunto que você propõs de forma que ele esteja claro em sua mente. Procure ao máximo estudar sobre o assunto, entender os pontos positivos, negativos e principalmente a apliação prática. Lembre-se: pessoas tendem a absorver melhor conhecimento com experiências práticas, cases de sucesso e fracasso.
 Isso nâo significa, porém, que você deva ser um PhD no assunnto, mas sim que mostre com alguma desenvoltura que o tema proposto tem uma aplicação  prática válida e que merece a atenção do ouvinte.
-
 
 ### 1.4 - A polemica dos slides
 Slides, ah os slides! Assunto extremamente polêmico que possui opiniões divididas. Diversas pessoas odeiam slides, outras usam para entreter o público e ainda há as que usam para passar um overview do tema (por exemplo, pedaços de código, videos com live coding, etc). Outros ainda defendem a tese de que uma boa palestra não precisa de slide algum, sem considerar entretanto o fato de que **determinado grupo de pessoas aprende melhor com recursos visuais**.
@@ -53,7 +49,6 @@ Quer exemplos?
 *"Object calisthenics é a melhor série de práticas que um desenvolvedor deveria saber"*, ou ainda
 
 *"Para quem só tem um martelo, o mundo inteiro é um prego"*.
-
 
 ### 1.6 - ELI5
 

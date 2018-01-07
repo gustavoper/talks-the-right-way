@@ -2,7 +2,6 @@
 
 ### 2.1 - Linguagem corporal
 
-
 Já ouviu dizer que mesmo que sua boca esteja fechada, seu corpo fala? Exato e com o agravante: quando você está no palco (ou na frente) todo mundo está vendo suas reações e te avaliando por elas, de forma direta ou indireta.
 
 Isso quer dizer que você pode ser um expert no assunto, mas se não procurar uma postura serena, calma e com voz firme, sua palestra pode ter ouvintes roncando, pessoas dispersas e más avaliaçÕes.
@@ -10,7 +9,6 @@ Isso quer dizer que você pode ser um expert no assunto, mas se não procurar um
 Dá pra perceber claramente que você se sente incomodado em ser interrompido no meio da palestra (vamos falar sobre isso), com aquela pergunta capciosa ou totalmente fora de contexto.
 
 Lembre-se que você é o foco, todo mundo está te olhando e não vão deixar passar nada, pois é o momento em que os cérebros deles estão se abrindo para o conhecimento que está por vir.
-
 
 O assunto é extenso e requer ao menos uns 50 guias só para um simples overview do mesmo, mas sendo rápido:
 
