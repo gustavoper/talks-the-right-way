@@ -1,18 +1,16 @@
 ## 3 - Pós-palestra
 
-
 ### 3.1 - Esteja preparado para perguntas
 
 
 Tenha em mente que você será perguntado sobre o que você acabou de falar, sobre o que não falou e talvez até sobre o que nunca pensou em falar na sua vida. Esse último caso ocorre muito em palestras para o público mais iniciante, que tem medo em perguntar para outra pessoa e vê ali a oportunidade da vida em sanar sua dúvida.
 
+
 **Eu não sei!**
 
 Pelo menos alguma vez na vida um palestrante já teve a experiência de ser perguntado por algo que não esperava, ou ainda não sabe. É normal porque ninguém sabe de tudo sempre e é mais normal ainda responder o famoso "eu não sei!". A dica que podemos dar é que se você não sabe, não invente - mas pegue o contato de quem perguntou, comprometa-se a pesquisar sobre a pergunta e dar uma resposta.
 
-
 E não tenha medo também se alguém da plateia responder a pergunta, agradeça a quem respondeu e siga em frente.
-
 
 **Eu não fiz isso porque aquilo...**
 
@@ -41,8 +39,6 @@ Veja a saia justa que você passou e está se submetendo nesse exato momento. Pr
 Nunca, jamais questione o mérito da pergunta do seu ouvinte. Evite fazer aquela cara de *cara, que porcaria de pergunta*. Esse tipo de atitude soa ofensiva e pode virar o público contra quem está perguntando, conflito que você deve evitar ao mãximo.  Pode ainda afastar o público de você. Quem nunca ouviu a frase *por que eu vou perguntar algo pra esse cara? Lembra como ele respondeu o maninho lá?*
 
 Respire fundo, entenda o que foi perguntado e tente responder da forma mais amigável possível. Lembre-se que seu objetivo é aproximar o ouvinte a você e não o contrário.
-
-
 
 ### 3.2 - Esteja preparado para falhar miseravelmente
 

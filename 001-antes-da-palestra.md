@@ -1,6 +1,5 @@
 ## 1 - Antes da Talk
 
-
 ### 1.1 - Assunto
 
 
@@ -21,7 +20,6 @@ Você tem que estar preparado para esses e quaisquer outros tipos de intercorrê
 
 Vamos falar sobre esses tópicos detalhadamente mais tarde, mas tenha em mente que preparação é a chave para o sucesso de uma talk.
 
-
 ### 1.3.1 – Preparação exige dedicação
 
 Dedique-se ao tema/assunto que você propõs de forma que ele esteja claro em sua mente. Procure ao máximo estudar sobre o assunto, entender os pontos positivos, negativos e principalmente a aplicação prática. Lembre-se: pessoas tendem a absorver melhor conhecimento com experiências práticas, cases de sucesso e fracasso.
@@ -39,6 +37,7 @@ Dado ao que vimos e presenciamos ao longo do tempo,
 
  - **Evite a enxurrada de piadinhas, memes e GIFs engraçados:** cuidado ao tentar arrancar em excesso risos da platéia com um GIF animado a cada 2 slides. Use-os com muita parcimônia, sem exagero e evitando ao máximo a clássica falta de noção. Aquela sua piada de loira, papagaio ou português pode ter lugar no almoço de domingo mas não numa palestra. Você pode - e deve - quebrar o gelo, mas nunca ser um babaca.
 
+
 ### 1.5 - Tenha punchlines na cabeça
 
 Procure cercar-se de frases que definam o sub-tópico da vez: mais ou menos como no punchline no rap, aquela frase que marca o assunto e que provavelmente seu ouvinte não irá esquecer. Ela tem o poder de mostrar pro ouvinte que você entende do assunto o suficiente para contar a alguém, mexe com o ouvinte e pode obrigá-lo a pegar o bloco de anotações, escrevendo imediatamente o que você acabou de falar.
@@ -49,8 +48,9 @@ Quer exemplos?
 
 *"Object calisthenics é a melhor série de práticas que um desenvolvedor deveria saber"*, ou ainda
 
-*"Para quem só tem um martelo, o mundo inteiro é um prego"*.
+*"Object calisthenics é a melhor série de práticas que um desenvolvedor deveria saber"*, ou ainda
 
+*"Para quem só tem um martelo, o mundo inteiro é um prego"*.
 
 ### 1.6 - ELI5
 

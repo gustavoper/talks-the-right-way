@@ -13,9 +13,7 @@ Antes de entrar no cerne da questão, vamos responder a uma pergunta importante:
 Esse é um *mito* que foi criado ao longo dos anos por pessoas que utilizam as palestras como meio para alavancar suas carreiras ou vender metodologias miraculosas de sucesso instantâneo. Exageros a parte, a resposta é não, você não precisa de um Mestrado ou Pós-Doutorando para palestrar.
 O que você precisa é acima de tudo, **passar verdade ao ouvinte, ou seja, convencê-lo de forma simples que aquilo que você está falando é verdade, alguém já fez um dia e qualquer um tem (ou pode ter um dia) a capacidade técnica para tal**.
 
-
 Como? É o que vamos mostrar aqui.
-
 
 ## Ser palestrante dá dinheiro? Impulsiona sua carreira? Massageia o ego?
 
