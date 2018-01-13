@@ -4,7 +4,7 @@
 
 Já ouviu dizer que mesmo que sua boca esteja fechada, seu corpo fala? Exato e com o agravante: quando você está no palco (ou na frente) todo mundo está vendo suas reações e te avaliando por elas, de forma direta ou indireta.
 
-Isso quer dizer que você pode ser um expert no assunto, mas se não procurar uma postura serena, calma e com voz firme, sua palestra pode ter ouvintes roncando, pessoas dispersas e más avaliaçÕes.
+Isso quer dizer que você pode ser um expert no assunto, mas se não procurar uma postura serena, calma e com voz firme, sua palestra pode ter ouvintes roncando, pessoas dispersas e más avaliações.
 
 Dá pra perceber claramente que você se sente incomodado em ser interrompido no meio da palestra (vamos falar sobre isso), com aquela pergunta capciosa ou totalmente fora de contexto.
 
@@ -12,11 +12,11 @@ Lembre-se que você é o foco, todo mundo está te olhando e não vão deixar pa
 
 O assunto é extenso e requer ao menos uns 50 guias só para um simples overview do mesmo, mas sendo rápido:
 
-- Cuidado com a postura defensiva: mão no bolso, ombros curvados, postura arcada e cabeça baixa são exemplos de posturas claramente defensivas. Elas podem demonstrar para algumas pessoas, principalmente as que você viu pela primeira vez na vida, que você parece näo manjar muito disso aí que você está falando.
+- **Cuidado com a postura defensiva:** mão no bolso, ombros curvados, postura arcada e cabeça baixa são exemplos de posturas claramente defensivas. Elas podem demonstrar para algumas pessoas, principalmente as que você viu pela primeira vez na vida, que você parece não manjar muito disso aí que você está falando.
 
-- Cuidado também com a postura claramente ofensiva: Peito estufado, olhar de soberba e desprezo são indicativos de que você odeia pessoas, odeia falar com pessoas e não faz o mínimo para fingir esse sentimento. Isso afasta o ouvinte de você.
+- **Cuidado também com a postura claramente ofensiva:** peito estufado, olhar de soberba e desprezo são indicativos de que você odeia pessoas, odeia falar com pessoas e não faz o mínimo para fingir esse sentimento. Isso afasta o ouvinte de você.
 
-- Treine no espelho: Uma boa dica é dar-se a si mesmo o presente de ouvir sua talk na integra. Pode ser em frente ao espelho, gravando com uma webcam ou até para um colega seu. Dessa forma você consegue fazer uma auto-avaliação e posteriormente medir onde está errando.
+- **Treine no espelho:** uma boa dica é dar-se a si mesmo o presente de ouvir sua talk na íntegra. Pode ser em frente ao espelho, gravando com uma webcam ou até para um colega seu. Dessa forma você consegue fazer uma auto-avaliação e posteriormente medir onde está errando.
 
 ### 2.2 - Esteja preparado para aquele que te interrompe
 
