@@ -48,8 +48,6 @@ Quer exemplos?
 
 *"Object calisthenics é a melhor série de práticas que um desenvolvedor deveria saber"*, ou ainda
 
-*"Object calisthenics é a melhor série de práticas que um desenvolvedor deveria saber"*, ou ainda
-
 *"Para quem só tem um martelo, o mundo inteiro é um prego"*.
 
 ### 1.6 - ELI5
