@@ -16,4 +16,5 @@
 Abaixo listamos algumas talks que fizeram menção ao nosso repositório. Muito obrigado =)
 
 [Palestrando de Forma Efetiva - por Gustavo Pereira](https://speakerdeck.com/gustavoper/palestrando-de-forma-efetiva)
+
 [Perdendo o medo de falar em público - por Ivan Rosolen](https://speakerdeck.com/ivanrosolen/perdendo-o-medo-de-falar-em-publico)
