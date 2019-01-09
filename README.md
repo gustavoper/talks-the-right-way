@@ -21,3 +21,8 @@ A princípio está voltada para a área de TI, mas creio que algumas dicas aqui 
 - Você pode - e deve - contribuir para esse guia. Issues e PRs são graciosamente aceitas;
 
 - We would like to have an English translation, I'll start when finishing Chapter 2 but if you would like to start, please feel free to do so.
+
+
+# Menções/Referências
+
+Por favor, sinta-se a vontade para usar esse guia em sua palestra. Pedimos apenas que o mencione diretamente na sua apresentação e nos mande uma PR com o link de seus slides para que possamos adicioná-lo em nossas referências.
