@@ -25,4 +25,4 @@ A princípio está voltada para a área de TI, mas creio que algumas dicas aqui 
 
 # Menções/Referências
 
-Por favor, sinta-se a vontade para usar esse guia em sua palestra. Pedimos apenas que o mencione diretamente na sua apresentação e nos mande uma PR com o link de seus slides para que possamos adicioná-lo em nossas referências.
+Por favor, sinta-se a vontade para usar esse guia em sua palestra. Pedimos apenas que o mencione diretamente na sua apresentação e nos mande uma issue (ou PR) com o link de seus slides para que possamos adicioná-lo em nossas referências.
